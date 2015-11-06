@@ -1,8 +1,8 @@
 ### This is a submission for Exploratory Data Analysis - Course Project 1 assignment
 
 The contents of this repo includes the following:
-* Assignment Instructions.MD 
-  https://github.com/slnarayan/ExData_Plotting1/Assignment_Instructions.MD
+* Assignment Instructions.md ( Original README.md )
+  https://github.com/slnarayan/ExData_Plotting1/blob/master/Assignment_Instructions.md
 * install_load.R - Utility function to load the sqldf library
 * plot1.R 
 * plot2.R
